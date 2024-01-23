@@ -1,3 +1,4 @@
+<h3> this research was carried out as a requirment for the SE course . </h3>
 <h1>About website :</h1>
 W3Schools is a popular online platform that provides web development tutorials and references for various web technologies and It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills and other technologies and the website offers a wide range of educational materials, including beginner-friendly tutorials, interactive examples, and hands-on exercises
 
